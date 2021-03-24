@@ -1,3 +1,3 @@
 # Phase Diagram of Ferroelectric and Ferromagnet
-基于Matlab计算铁电体铁磁体的相图
+基于离散网格傅里叶变换的铁磁体相图计算
 (During 2016.10-2016.12)
